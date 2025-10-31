@@ -1,0 +1,21 @@
+* 5975b53 (HEAD -> main, origin/main) docs:Add changelog
+| * 4fcfedf (feature/another-feature) Bad commit
+|/  
+| * 61882fe (origin/feature/another-feature) feat:Add test feature
+|/  
+* 3b0056c (tag: v1.1.0, tag: v1.0.0) docs:Update README
+* 8a5353b feat:Add new feature
+* a7b0f56 docs: Add FAQ section
+| * a169372 (origin/feature/new-feature, feature/new-feature) feat:Add new feature
+|/  
+*   f5344f7 merge:REsolve all conflicts between main and conflict-simulator
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   c1f9d20 merge:Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
